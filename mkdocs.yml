@@ -1,0 +1,11 @@
+site_name: Ess's Vocabulary Notes
+theme:
+  name: material
+  language: zh
+nav:
+  - 首页: index.md
+  - 阅读记录:
+    - 2025-05-14-Reading001: 2025-05-14_2006-RC-A.md
+    
+site_url: https://Chronos22220399.github.io/vocab-notes/
+repo_url: https://github.com/Chronos22220399/vocab-notes
